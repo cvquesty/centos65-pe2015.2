@@ -3,19 +3,15 @@
 ###Required Software
 
 **Download and Install Vagrant**
-
-	https://dl.bintray.com/mitchellh/vagrant/vagrant_1.7.2.msi
+	https://releases.hashicorp.com/vagrant/1.8.1/vagrant_1.8.1.msi
 
 **Download and Install Virtualbox**
+http://download.virtualbox.org/virtualbox/5.0.14/VirtualBox-5.0.14-105127-Win.exe
 
-	http://download.virtualbox.org/virtualbox/4.3.20/VirtualBox-4.3.20-96997-Win.exe
-	
 **Download and Install Mysysgit**
-
-	https://github.com/msysgit/msysgit/releases/download/Git-1.9.5-preview20141217/Git-1.9.5-preview20141217.exe
+https://github.com/git-for-windows/git/releases/download/v2.7.0.windows.1/Git-2.7.0-64-bit.exe
 
 **Download and Install Atom**
-
 	https://atom.io/download/windows
 
 **Install Vagrant Plugins**
