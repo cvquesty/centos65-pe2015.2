@@ -6,7 +6,7 @@
 	https://releases.hashicorp.com/vagrant/1.8.1/vagrant_1.8.1.msi
 
 **Download and Install Virtualbox**<br>
-http://download.virtualbox.org/virtualbox/5.0.14/VirtualBox-5.0.14-105127-Win.exe
+	http://download.virtualbox.org/virtualbox/5.0.14/VirtualBox-5.0.14-105127-Win.exe
 
 **Download and Install Mysysgit**<br>
 https://github.com/git-for-windows/git/releases/download/v2.7.0.windows.1/Git-2.7.0-64-bit.exe
